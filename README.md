@@ -1,7 +1,7 @@
-#Hackathon 3.0 crash course - Git voor Developers
+# Hackathon 3.0 crash course - Git voor Developers
 
-##Cheatcheat
+## Cheatcheat
 Look at the index.html file in the browser to look at the cheatsheet.
 
-##What you will learn in the workshop
+## What you will learn in the workshop
 We will work in this git repository and learn how to put your own code in the repository.
